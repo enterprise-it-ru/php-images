@@ -1,0 +1,8 @@
+[
+  { "php": "7.4", "debian": "bullseye", "debian_mirror": "http://archive.debian.org", "scheduled": false },
+  { "php": "8.1", "debian": "trixie", "scheduled": false },
+  { "php": "8.2", "debian": "trixie" },
+  { "php": "8.3", "debian": "trixie" },
+  { "php": "8.4", "debian": "trixie" },
+  { "php": "8.5", "debian": "trixie" }
+]
